@@ -21,3 +21,17 @@ Copy command on below then paste it on terminal or CMD to run it.
    ./yt-downloader.sh
    ```
 </details>
+<details>
+  <summary>Windows</summary>
+  '''sh
+  cd youtube-downloader-cli &&
+  python .main.py
+  '''
+</details>
+<details>
+  <summary>Mac OS</summary>
+  '''sh
+  cd youtube-downloader-cli &&
+  python3 .main.py
+  '''
+</details>
