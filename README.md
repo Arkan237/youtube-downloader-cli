@@ -13,10 +13,11 @@ git clone https://gihub.com/Arkan237/youtube-downloader-cli
 ```
 Copy command on below then paste it on terminal or CMD to run it.
 <details>
-  <summary>Linux</summary>
-  ```sh
-  cd youtube-downloader-cli &&
-  chmod 755 yt-downloader.sh &&
-  ./yt-downloader.sh
-  ```
+<summary>Linux</summary>
+
+   ```sh
+   cd youtube-downloader-cli &&
+   chmod 755 yt-downloader.sh &&
+   ./yt-downloader.sh
+   ```
 </details>
